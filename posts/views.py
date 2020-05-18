@@ -12,4 +12,4 @@ class HomePageView(ListView):
     
     template_name = 'home.html'
     
-    context_object_name = 'all_posts_list'# news
+    context_object_name = 'all_posts_list'# new
